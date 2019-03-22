@@ -1,3 +1,4 @@
+
 ## Mailtrain v2 beta is available. Check it out here https://github.com/Mailtrain-org/mailtrain/tree/development
 
 # Mailtrain
